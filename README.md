@@ -17,3 +17,5 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 
 [Modifying content]: Hyperskill practice
+
+{Adding as new line}: Added a new line before pushing to remote repo.
