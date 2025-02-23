@@ -16,6 +16,8 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
 
-[Modifying content]: Hyperskill practice
+Step: 1 [Modifying content]: Hyperskill practice
 
-{Adding as new line}: Added a new line before pushing to remote repo.
+Step: 2 {Adding as new line}: Added a new line before pushing to remote repo.
+
+Step: 3 [Connect Github with browser and Token] 
